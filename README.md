@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Deenanath%20Yadav&fontSize=42&fontAlignY=36&animation=twinkling&desc=DevOps%20%7C%20DevSecOps%20%7C%20Azure%20Cloud%20Architect%20%7C%20Techno-Functional%20Lead&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Deenanath%20Yadav&fontSize=42&fontAlignY=36&animation=twinkling&desc=Senior%20DevOps%20%7C%20DevSecOps%20%7C%20Azure%20Cloud%20Architect%20%7C%20Infrastructure%20Specialist&descAlignY=58&descAlign=50" width="100%" />
 
 <!-- Animated Live Typing Subtitle -->
 <a href="https://github.com/Deenanath486">
@@ -28,7 +28,7 @@
   <b>📍 Gurugram, India</b>
 </p>
 
-> *"Bridging Business Strategy, Enterprise Cloud Architecture, and Automated DevSecOps to deliver resilient, governed, scalable, and FinOps-optimized digital ecosystems."*
+> *"Designing and automating resilient cloud platforms with Infrastructure as Code, zero-downtime CI/CD pipelines, robust governance, and FinOps optimization."*
 
 </div>
 
@@ -36,19 +36,19 @@
 
 ## 🎯 Executive Profile & Core Philosophy
 
-Accomplished **DevOps/DevSecOps Architect & Techno-Functional Lead** with 7.8+ years of expertise spanning the complete cloud lifecycle — from **PreSales, RFPs, System Design, and Technical Account Management (TAM)** to **Hands-on IaC Automation, 100+ Workload Migrations, Governance, and FinOps**.
+Accomplished **Senior DevOps / DevSecOps Engineer & Azure Cloud Architect** with 7.8+ years of expertise in **Enterprise Cloud Infrastructure, Hands-on Modular Terraform Automation, 100+ Workload Migrations, Governance, and FinOps**.
 
-I bridge business requirements with cutting-edge engineering: building platforms that are **Scalable, Robust, Secure, Portable, Governed, Highly Available, and Cost-Optimized**.
+Specialized in building platforms that are **Scalable, Robust, Secure, Portable, Governed, Highly Available, and Cost-Optimized**.
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                 ENTERPRISE DELIVERY LIFECYCLE                                    │
 ├───────────────────┬───────────────────┬────────────────────┬────────────────────────────────────┤
-│  1. STRATEGIZE    │   2. ARCHITECT    │   3. AUTOMATE      │   4. OPERATE & GOVERN              │
-│  • PreSales & RFP │  • CAF Framework  │  • Modular IaC     │  • FinOps & Cost Optimization      │
-│  • SOW & Scoping  │  • Hub-and-Spoke  │  • DevSecOps CI/CD │  • HA / BCDR (Strict RTO & RPO)    │
-│  • Assessment &   │  • Tenant & Entra │  • Drift Detection │  • Policy, Sentinel & Defender     │
-│    Discovery      │    Hierarchy      │  • Trunk-Based Git │  • Vendor SLA & Transitions (KT)   │
+│  1. ASSESS & PLAN │   2. ARCHITECT    │   3. AUTOMATE      │   4. OPERATE & GOVERN              │
+│  • Discovery &    │  • CAF Framework  │  • Modular IaC     │  • FinOps & Cost Optimization      │
+│    Inventory      │  • Hub-and-Spoke  │  • DevSecOps CI/CD │  • HA / BCDR (Strict RTO & RPO)    │
+│  • Dependency     │  • Tenant & Entra │  • Drift Detection │  • Policy, Sentinel & Defender     │
+│    Mapping        │    Hierarchy      │  • Trunk-Based Git │  • SOPs & Knowledge Transfer (KT)  │
 └───────────────────┴───────────────────┴────────────────────┴────────────────────────────────────┘
 ```
 
@@ -111,11 +111,10 @@ I bridge business requirements with cutting-edge engineering: building platforms
 
 ---
 
-### 7. 🤝 Techno-Functional Leadership & Delivery Governance
-- **PreSales & Solutioning**: Leading RFP/RFI technical evaluation matrices, architectural capability presentations, commercial proposals, and Statements of Work (SOW).
-- **Technical Account Management (TAM)**: Acting as trusted technical advisor for enterprise clients, managing stakeholder expectations, and designing escalation matrices.
-- **Vendor & Partner Governance**: Technical task assignments, sprint planning, acceptance criteria definition, risk mitigation, and contract milestone sign-offs.
-- **Transitions & Upskilling**: RACI matrix implementation, knowledge transfer (KT) frameworks, architectural documentation handovers, and conducting senior-level technical interviews.
+### 7. 🤝 Technical Delivery, Operations & Transition Governance
+- **Operational Excellence**: Authoring comprehensive Standard Operating Procedures (SOPs), runbooks, and disaster recovery execution plans.
+- **Cross-Team Alignment**: Managing technical escalation matrices, resolving environment dependencies, and coordinating cross-functional infrastructure readiness.
+- **Transitions & Knowledge Transfer**: Designing detailed RACI matrices, conducting knowledge transfer (KT) sessions, architectural documentation handover, and mentoring engineering team members.
 
 ---
 
@@ -167,7 +166,7 @@ I bridge business requirements with cutting-edge engineering: building platforms
 <div align="center">
 
 ### 📬 Connect With Me
-For cloud transformations, enterprise architecture advisory, or leadership opportunities:
+For cloud transformations, infrastructure architecture, or technical collaboration:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-deenanathyadav106%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deenanathyadav106@gmail.com)
