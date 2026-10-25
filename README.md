@@ -134,23 +134,44 @@ Specialized in building platforms that are **Scalable, Robust, Secure, Portable,
 
 ---
 
-## 💼 Enterprise Work Experience Highlights
+## 💼 Complete Career Journey & Work Experience
 
 ### 🚀 **DevOps Engineer** | Bharti Airtel Limited *(Client: Devyani International Limited)*
 *Payroll: TeamLease Services Limited | 02/2022 – Present | Gurgaon, India*
-- **Modular Terraform Infrastructure**: Architected scalable Azure landing zones and multi-tier architectures (VMs, VNets, NSGs, Subnets, PostgreSQL PaaS, Storage Accounts) using reusable child/parent modules. Managed remote state files with blob lease locking and CMK encryption.
-- **Azure Cloud & AKS Administration**: Configured and administered Azure Kubernetes Service (AKS) and Azure Container Registry (ACR). Deployed containerized applications using Helm and managed Kubernetes manifests (Deployments, Services, Ingress, Secrets).
-- **Multi-Stage CI/CD Pipelines**: Built enterprise-grade YAML pipelines in **Azure DevOps** and **GitHub Actions** automating Docker builds, vulnerability scans, ACR image pushes, and multi-environment Terraform approvals.
-- **Security & Quality Gates**: Integrated **Trivy, Gitleaks, tfsec**, and **SonarQube** into delivery pipelines to block secret leaks and high-severity container vulnerabilities.
-- **Cost Governance & FinOps**: Implemented **Infracost** PR checks and automated VM shutdown routines for non-production workloads.
+- **Infrastructure as Code (Terraform)**: Designed and deployed Azure infrastructure (VMs, VNets, Subnets, NSGs, Resource Groups, Storage Accounts) using modular Terraform. Managed state files in Azure Blob Storage with remote state locking and CMK encryption.
+- **Azure Cloud & AKS Administration**: Provisioned and managed Azure Kubernetes Service (AKS) clusters, Azure Container Registry (ACR), Virtual Networks, and NSGs; deployed containerized workloads using Helm charts and managed Kubernetes manifests (Pods, Deployments, Services, Namespaces, ConfigMaps, Secrets).
+- **CI/CD Pipelines (Azure DevOps & GitHub Actions)**: Built and maintained multi-stage YAML pipelines for infrastructure automation, Docker image builds/pushes to ACR, and automated Terraform plan/apply workflows with environment approval gates.
+- **Shift-Left DevSecOps**: Embedded **Trivy, Gitleaks, tfsec**, and **SonarQube (SAST)** into CI/CD pipelines to enforce security gates and prevent vulnerability/secret leakage prior to deployment.
+- **Monitoring & Reliability**: Configured **Azure Monitor**, Log Analytics, Prometheus, and Grafana dashboards; set up automated metric alerts for proactive incident response and high availability.
+- **Linux Administration & Automation**: Managed Ubuntu/CentOS servers, package updates, user administration, cron job scheduling, log analysis, and automated administrative workflows using Bash and PowerShell.
+- **Version Control & Collaboration**: Administered Git repositories on GitHub following the **GitFlow** branching strategy; conducted peer code reviews via pull requests and maintained comprehensive infrastructure documentation.
 
 ---
 
 ### 🌐 **Network Support Engineer** | InknowTech Private Limited *(Client: Accenture – Bharti Airtel)*
 *02/2020 – 02/2022 | Gurgaon, India*
-- **Network Performance & SLA Management**: Monitored enterprise network availability, capacity, and device performance across nationwide links using **SolarWinds**.
-- **Incident Resolution & RCA**: Investigated and resolved packet drops, latency spikes, and link flapping within strict SLA timelines; authored Root Cause Analysis (RCA) reports to prevent recurring outages.
-- **Firewall & Security**: Hands-on administration and policy troubleshooting on **Fortinet Firewalls** and core routing switches.
+- **Enterprise Network Monitoring**: Monitored nationwide network devices, enterprise availability, capacity, and performance using **SolarWinds**.
+- **Incident & Issue Tracking**: Monitored and analyzed link down, link flapping, circuit utilization, packet drops, and latency incidents; maintained strict SLA timelines.
+- **Ticketing & Incident Management**: Logged, updated, and managed incidents using Siebel / DT tools, ensuring timely resolution and SLA compliance for complaints, requests, and outages.
+- **L2/L3 Escalation & Vendor Coordination**: Handled technical escalations, collaborating with Level 2 / Level 3 engineering teams and telecom vendors for critical link restoration.
+- **Root Cause Analysis (RCA)**: Investigated and documented comprehensive RCA reports and preventive measures to minimize recurring network failures.
+- **Firewall & Security Administration**: Hands-on policy configuration, traffic inspection, and troubleshooting on **Fortinet Firewalls** and enterprise routers.
+- **SLA & Performance Reporting**: Compiled and presented daily, weekly, and monthly network health and SLA adherence performance metrics.
+
+---
+
+### 🖥️ **Executive IT Support** | Marine Expert Protection & Allied Services Pvt. Ltd.
+*07/2019 – 02/2020*
+- **IT Support & Systems Administration**: Provided comprehensive day-to-day technical support for enterprise hardware, software, desktop systems, and OS deployment (Windows/Linux).
+- **Network & User Administration**: Managed user onboarding, access provisioning, LAN/WAN troubleshooting, and local network connectivity.
+- **Data Backups & Vendor Coordination**: Maintained critical enterprise data backups and coordinated with IT hardware/software vendors for timely procurement and servicing.
+
+---
+
+### 🛠️ **Executive IT Support** | Orsh Associates Private Limited
+*07/2018 – 10/2018*
+- **Technical Support & Hardware Maintenance**: Delivered end-user technical support for computer workstations, printers, and peripheral networking equipment.
+- **System Setup & Documentation**: Installed, formatted, and configured operating systems and business software; maintained IT asset inventory databases and authored technical troubleshooting procedures.
 
 ---
 
