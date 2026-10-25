@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/deenanath-yadav-495110146" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Deenanath_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:deenanathyadav106@gmail.com"><img src="https://img.shields.io/badge/Email-deenanathyadav106%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="tel:+918960684405"><img src="https://img.shields.io/badge/Phone-+91--8960684405-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
+  <a href="https://raw.githubusercontent.com/Deenanath486/Devops-Insider-Notebook-Important/main/DEENANATH_YADAV_RESUME.pdf" target="_blank"><img src="https://img.shields.io/badge/Download-Resume_PDF-E50914?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" /></a>
   <a href="https://github.com/Deenanath486"><img src="https://img.shields.io/badge/GitHub-Deenanath486-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -231,6 +232,7 @@ Open to senior opportunities in **DevOps Engineering**, **Azure Cloud Architectu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deenanath-yadav-495110146)
 [![Email](https://img.shields.io/badge/Email-deenanathyadav106%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deenanathyadav106@gmail.com)
 [![Call](https://img.shields.io/badge/Call-+91--8960684405-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918960684405)
+[![Download Resume](https://img.shields.io/badge/Download-Resume_PDF-E50914?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/Deenanath486/Devops-Insider-Notebook-Important/main/DEENANATH_YADAV_RESUME.pdf)
 
 *⚡ "Architecting resilient foundations, automating delivery, and securing enterprise cloud journeys." ⚡*
 
