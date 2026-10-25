@@ -1,11 +1,25 @@
 <div align="center">
 
-# Hi there, I'm Deenanath Yadav 👋
-### 🚀 DevOps Engineer | DevSecOps Engineer | Azure Cloud Architect | Techno-Functional Lead
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Deenanath%20Yadav&fontSize=42&fontAlignY=36&animation=twinkling&desc=DevOps%20%7C%20DevSecOps%20%7C%20Azure%20Cloud%20Architect%20%7C%20Techno-Functional%20Lead&descAlignY=58&descAlign=50" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deenanath_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-deenanathyadav106%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deenanathyadav106@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Deenanath486-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deenanath486)
+<!-- Animated Live Typing Subtitle -->
+<a href="https://github.com/Deenanath486">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0078D4&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=750&height=50&lines=🚀+Senior+DevOps+%26+DevSecOps+Engineer;☁️+Enterprise+Azure+Cloud+Architect;🏛️+CAF+Landing+Zones+%26+Hub-Spoke+Topology;⚙️+Production-Grade+Terraform+Automation;📦+100%2B+Workload+Migrations+%7C+FinOps+Specialist" alt="Typing Animation" />
+</a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Deenanath_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:deenanathyadav106@gmail.com"><img src="https://img.shields.io/badge/Email-deenanathyadav106%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Deenanath486"><img src="https://img.shields.io/badge/GitHub-Deenanath486-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<!-- Animated Core Skills Strip -->
+<p align="center">
+  <a href="#-comprehensive-tech-stack">
+    <img src="https://skillicons.dev/icons?i=azure,terraform,kubernetes,docker,linux,bash,powershell,githubactions,python,postgres&theme=dark" alt="Skills" />
+  </a>
+</p>
 
 <p align="center">
   <b>💼 7.8+ Years in IT Infrastructure</b> &nbsp;|&nbsp; 
@@ -144,6 +158,10 @@ I bridge business requirements with cutting-edge engineering: building platforms
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deenanath486&theme=tokyonight&hide_border=true" width="97%" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deenanath486&theme=tokyo-night&area=true&hide_border=true&custom_title=Enterprise%20Contributions%20%26%20Frequency" width="97%" />
+</div>
+
 ---
 
 <div align="center">
@@ -155,5 +173,8 @@ For cloud transformations, enterprise architecture advisory, or leadership oppor
 [![Email](https://img.shields.io/badge/Email-deenanathyadav106%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deenanathyadav106@gmail.com)
 
 *⚡ "Architecting resilient foundations, automating delivery, and securing enterprise cloud journeys." ⚡*
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%" />
 
 </div>
