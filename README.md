@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Deenanath Yadav 👋
-### 🚀 Senior DevOps Engineer | Azure Cloud Architect | Infrastructure Automation Specialist
+### 🚀 DevOps Engineer | DevSecOps Engineer | Azure Cloud Engineer | Infrastructure Automation Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deenanath_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-deenanathyadav106%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deenanathyadav106@gmail.com)
